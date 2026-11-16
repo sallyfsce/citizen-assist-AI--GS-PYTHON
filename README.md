@@ -55,8 +55,6 @@ A pergunta e as palavras-chave/títulos passam por `normalizar()` (minúsculas, 
 ## Histórico, indicadores e CSV
 Cada atendimento vai para `data/historico.json` (data, origem, pergunta, id da orientação, encontrou, ajudou, tentativas, tempo em segundos, nota). Indicadores: resposta encontrada (%), taxa de acerto (%), tempo médio para encontrar, tentativas por atendimento, facilidade de uso (1 a 5) e lista de dúvidas sem solução. Exportação para `data/atendimentos.csv` com `csv.DictWriter`.
 
-## Integrações com outras disciplinas
-(preencher se houver; caso contrário, escrever "Nenhuma")
 
 ## Fontes consultadas
 - https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho
@@ -67,20 +65,15 @@ Cada atendimento vai para `data/historico.json` (data, origem, pergunta, id da o
 - https://meu.inss.gov.br
 - https://www.gov.br
 
-(Conferir cada página e atualizar o campo `verificado_em` no JSON.)
-
 ## Resultado do teste com usuários
 - Pessoas de fora da equipe: (mínimo 3) | Atendimentos: (mínimo 10)
 - Resposta encontrada: __% | Taxa de acerto: __% | Tempo médio: __ s | Tentativas: __ | Facilidade: __/5
 - Dúvidas sem solução: (listar)
 - Melhoria feita a partir do teste: (ex.: nova palavra-chave X na orientação Y)
 
-(Não registrar nomes nem dados das pessoas.)
 
 ## Limitações
 - A busca é por regras: não entende sinônimos que não estão nas palavras-chave nem erros de digitação.
 - A base tem poucas orientações e é nacional; procedimentos locais podem variar.
 - O conteúdo precisa ser reconferido nas fontes oficiais de tempos em tempos.
 
-## Vídeo técnico
-Link (YouTube, não listado): (preencher)
