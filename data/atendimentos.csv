@@ -1,0 +1,12 @@
+data,sessao,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos,nota_facilidade
+2026-11-16 13:43:34,2026-11-16 13:42:53,pergunta,como faço minha carteira de trabalho digital?,1,True,True,1,27.7,
+2026-11-16 13:43:45,2026-11-16 13:42:53,pergunta,Fui demitido. Como solicito o seguro-desemprego?,7,True,True,1,5.0,
+2026-11-16 13:43:57,2026-11-16 13:42:53,categoria,,6,True,True,1,2.7,
+2026-11-16 13:44:51,2026-11-16 13:42:53,pergunta,onde posso denunciar uma empresa que não paga os funcionários,10,True,True,1,8.9,
+2026-11-16 13:45:02,2026-11-16 13:42:53,pergunta,preciso tirar meu cpf como faço,3,True,True,1,2.7,
+2026-11-16 13:45:47,2026-11-16 13:42:53,pergunta,Posso te passar minha senha do gov.br para você acessar minha conta?,2,True,True,4,28.2,
+2026-11-16 13:46:47,2026-11-16 13:42:53,pergunta,Você consegue garantir que vou receber o seguro-desemprego?,7,True,False,3,0.7,
+2026-11-16 14:05:39,2026-11-16 14:05:29,pergunta,quero tirar meu rg,6,True,True,1,3.8,
+2026-11-16 14:07:41,2026-11-16 14:05:29,pergunta,Como faço para tirar meu título de eleitor?,4,True,True,1,0.7,
+2026-11-16 14:09:18,2026-11-16 14:05:29,pergunta,Onde vejo quanto tenho de FGTS?,8,True,True,1,0.8,
+2026-11-16 14:09:27,2026-11-16 14:05:29,pergunta,"Esqueci minha senha do gov, e agora?",,False,False,1,3.4,
