@@ -5,7 +5,8 @@ Assistente de terminal em Python que orienta **jovens no primeiro emprego** sobr
 ## Integrantes
 | Nome | RM |
 |------|----|
-| (preencher) | (preencher) |
+| Aneliza Rondina Bonafé | 572977 |
+| Rafaella Ferreira de Moraes | 571030 |
 
 ## Público e problema
 - **Público:** jovens que estão procurando o primeiro emprego.
