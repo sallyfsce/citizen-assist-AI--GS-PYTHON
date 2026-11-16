@@ -5,9 +5,7 @@ Assistente de terminal em Python que orienta **jovens no primeiro emprego** sobr
 ## Integrantes
 | Nome | RM |
 |------|----|
-| Aneliza Rondina | 572977 |
-| Rafaella Moraes | 571030 |
-
+| (preencher) | (preencher) |
 
 ## Público e problema
 - **Público:** jovens que estão procurando o primeiro emprego.
@@ -71,36 +69,10 @@ Cada atendimento vai para `data/historico.json` (data, origem, pergunta, id da o
 (Conferir cada página e atualizar o campo `verificado_em` no JSON.)
 
 ## Resultado do teste com usuários
-
-Foram considerados 3 participantes externos à equipe, realizando um total de 10 atendimentos simulados para avaliar a usabilidade, a eficiência da busca e a relevância das orientações fornecidas pelo Citizen Assist AI.
-
-### Indicadores
-
-| Indicador | Resultado |
-|---|---:|
-| Participantes | 3 |
-| Atendimentos | 10 |
-| Respostas encontradas | 90% |
-| Taxa de acerto | 80% |
-| Tempo médio de resposta | 4,2 s |
-| Média de tentativas | 1,3 |
-| Facilidade de uso | 4,3/5 |
-
-### Observações
-
-Durante a avaliação, foram consideradas perguntas sobre emissão de documentos, direitos trabalhistas, FGTS e procura pelo primeiro emprego. Também foram testadas perguntas com linguagem informal e dúvidas não contempladas na base de conhecimento.
-
-As principais dificuldades identificadas foram:
-- Perguntas utilizando sinônimos não cadastrados nas palavras-chave.
-- Dúvidas sobre assuntos que ainda não possuem orientações na base.
-- Necessidade de reformular algumas perguntas para obter resultados mais relevantes.
-
-### Melhorias identificadas
-
-A partir da avaliação, foram identificadas oportunidades de melhoria:
-- Ampliar as palavras-chave das orientações existentes.
-- Adicionar novas informações à base de conhecimento.
-- Melhorar o reconhecimento de perguntas formuladas informalmente.
+- Pessoas de fora da equipe: (mínimo 3) | Atendimentos: (mínimo 10)
+- Resposta encontrada: __% | Taxa de acerto: __% | Tempo médio: __ s | Tentativas: __ | Facilidade: __/5
+- Dúvidas sem solução: (listar)
+- Melhoria feita a partir do teste: (ex.: nova palavra-chave X na orientação Y)
 
 (Não registrar nomes nem dados das pessoas.)
 
